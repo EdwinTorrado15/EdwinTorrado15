@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development like FrontEnd and BackEnd
 - 🌱 I’m currently learning JavaScript,HTML5 and CSS3
 - 💞️ I’m looking to collaborate on large business and personal projects
-- 📫 How to reach me edwintorrado15@gmail.com
+- 📫 How to reach me Gmail: edwintorrado15@gmail.com, Linkedin: https://www.linkedin.com/in/edwintorrado15/
 
 <!---
 EdwinTorrado15/EdwinTorrado15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
