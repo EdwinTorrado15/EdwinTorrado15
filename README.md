@@ -1,6 +1,7 @@
 - 🙋‍♂️ Hola, soy @EdwinTorrado15  
 - 👀 Estoy interesado en el desarrollo web como FrontEnd y BackEnd.
-- 🤓 Actualmente estoy aprendiendo JavaScript, HTML5 y CSS3.
+- ✒ Interesado en el diseño y creacion de prototipos para pginas web
+- 🤓 Actualmente estoy aprendiendo React.JS, HTML5, CSS3, JavaScript.
 - ⚡ Busco colaborar en grandes proyectos empresariales y personales.
 - 📲 Como contactarme:
      -  Gmail: edwintorrado15@gmail.com
