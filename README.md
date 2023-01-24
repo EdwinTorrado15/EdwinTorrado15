@@ -6,11 +6,11 @@
 - 🔨 Habilidades:
      -HTML5 
      -CSS3
-     -Bootstrap
+     -Tailwind css
      -Sass
      -JavaScript
      -Figma
-     -ReactJs
+     -React Js
      
 - 📲 Como contactarme:
      -  Gmail: edwintorrado15@gmail.com
