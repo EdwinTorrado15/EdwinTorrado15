@@ -10,7 +10,11 @@
      -Sass
      -JavaScript
      -Figma
-     -React Js
+     -ReactJs
+     -NodeJs
+     -Express
+     -MongoDB
+     -MySQL
      
 - 📲 Como contactarme:
      -  Gmail: edwintorrado15@gmail.com
